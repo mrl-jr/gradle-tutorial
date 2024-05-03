@@ -23,5 +23,7 @@
       "default",
       "!{projectRoot}/test/**/*"
     ]
-  }
+  },
+  "nxCloudAccessToken": "NDk4MmNkMDAtYjI4ZS00YjlmLTlkNjItMzAxZjAxYTcwZmE2fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://staging.nx.app"
 }
