@@ -24,6 +24,6 @@
       "!{projectRoot}/test/**/*"
     ]
   },
-  "nxCloudAccessToken": "NDk4MmNkMDAtYjI4ZS00YjlmLTlkNjItMzAxZjAxYTcwZmE2fHJlYWQtd3JpdGU=",
-  "nxCloudUrl": "https://staging.nx.app"
+  "nxCloudAccessToken": "MDMwYmE4NDMtYjRhYi00ZjgyLThiMjQtYjJiNDRlNTIyYzI3fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4202"
 }
