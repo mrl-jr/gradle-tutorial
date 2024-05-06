@@ -24,6 +24,6 @@
       "!{projectRoot}/test/**/*"
     ]
   },
-  "nxCloudAccessToken": "MDMwYmE4NDMtYjRhYi00ZjgyLThiMjQtYjJiNDRlNTIyYzI3fHJlYWQtd3JpdGU=",
+  "nxCloudAccessToken": "MmI4ZGY2YWMtOTA5Ni00NDMxLThkZTItZWViYTU3YTkxYTkyfHJlYWQtd3JpdGU=",
   "nxCloudUrl": "http://localhost:4202"
 }
